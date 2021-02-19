@@ -41,7 +41,7 @@ bypass-tun = 192.168.0.0/16,10.0.0.0/8,172.16.0.0/12
 dns-server = 119.29.29.29,223.5.5.5
 
 [Proxy]
-UnlockNeteasyMucis = http, 124.160.18.242, 8163
+UnlockNeteasyMusic = http, 124.160.18.242, 8163
 
 [MITM]
 ca-passphrase = 4B676386
