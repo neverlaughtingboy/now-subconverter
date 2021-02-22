@@ -130,7 +130,6 @@ static=♻️ 自动选择, direct, img-url=https://raw.githubusercontent.com/Ko
 static=🚀 节点选择, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Proxy.png
 static=🚀 手动切换, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Static.png
 static=📲 电报消息, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Telegram.png
-static=📲 电报信息, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Telegram.png
 static=📹 油管视频, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/YouTube.png
 static=🎥 奈飞视频, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Netflix.png
 static=📺 巴哈姆特, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Bahamut.png
@@ -144,7 +143,6 @@ static=🍎 苹果服务, direct, img-url=https://raw.githubusercontent.com/Kool
 static=🎮 游戏平台, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Game.png
 static=🎶 网易音乐, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Netease_Music.png
 static=🎯 全球直连, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Direct.png
-static=🛑 全球拦截, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Advertising.png
 static=🛑 广告拦截, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Advertising.png
 static=🍃 应用净化, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Hijacking.png
 static=🐟 漏网之鱼, direct, img-url=https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Final.png
